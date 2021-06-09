@@ -1,3 +1,3 @@
 # Northern Hairy-Nosed Wombat
 
-![Image](Propaganda.png)
+![Image](./Propaganda.png)
